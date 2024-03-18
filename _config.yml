@@ -1,10 +1,21 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Dustup - docs
+description: Dustup - docs
+
 theme: just-the-docs
 
 url: https://dustup-gg.github.io/docs
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Ask your questions on Discord":
+    - "https://discord.gg/Zx37vEkzzB"
+color_scheme: dustup
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: yellow
+  tip:
+    title: Tip
+    color: blue

@@ -1,12 +1,14 @@
 ---
 layout: default
-title: How do I create a tournament?
+title: Create a tournament
+description: Simple steps to set up a tournament and publish it to your Discord server
 nav_order: 2
 parent: Admins
 ---
+# How do I create a tournament?
 
 {: .note }
-You'll need to [complete initial setup](/admins/setup) in your server before following the steps below.
+You'll need to [complete initial setup](/admins/setup.html) in your server before following the steps below.
 
 If you'd like to use only the scoring automation feature of Dustup, follow the steps for results-only instead.
 
@@ -14,7 +16,7 @@ If you'd like to use only the scoring automation feature of Dustup, follow the s
 
 2.  Enter a tournaments name and submit. This will:
 
-    -   Create a new category for the tournament that contains all the channels you need: **#admin**, **#tournament-info**, **#lobby**, and **#chat**. [Read more about tournament channels](/admins/channels-guide).
+    -   Create a new category for the tournament that contains all the channels you need: **#admin**, **#tournament-info**, **#lobby**, and **#chat**. [Read more about tournament channels](/admins/channels-guide.html).
 
     -   Create a new role for the tournament (for registered players).
 

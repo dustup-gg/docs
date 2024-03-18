@@ -6,7 +6,7 @@ parent: Admins
 ---
 
 {: .note }
-You'll need to [complete initial setup](https://help.dustup.gg/en/articles/8565503-how-do-i-set-up-dustup-for-the-first-time) in your server before following the steps below.
+You'll need to [complete initial setup](/admins/setup) in your server before following the steps below.
 
 If you'd like to use only the scoring automation feature of Dustup, follow the steps for results-only instead.
 
@@ -14,7 +14,7 @@ If you'd like to use only the scoring automation feature of Dustup, follow the s
 
 2.  Enter a tournaments name and submit. This will:
 
-    -   Create a new category for the tournament that contains all the channels you need: **#admin**, **#tournament-info**, **#lobby**, and **#chat**. [Read more about tournament channels](https://help.dustup.gg/en/articles/8565796-what-channels-does-dustup-create-and-what-are-they-for).
+    -   Create a new category for the tournament that contains all the channels you need: **#admin**, **#tournament-info**, **#lobby**, and **#chat**. [Read more about tournament channels](/admins/channels-guide).
 
     -   Create a new role for the tournament (for registered players).
 

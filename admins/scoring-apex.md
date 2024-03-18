@@ -1,16 +1,17 @@
 ---
 layout: default
-title: How should I collect and share the scores (Apex)?
+title: Scoring (Apex)
 description: Automatically calculate scores based on a results page screenshot and share with players
-nav_order: 1
+nav_order: 6
 parent: Admins
 ---
+
+# How should I collect and share the scores (Apex)?
 
 {: .note }
 If you're not hosting an Apex Legends tournament, see our other guides for how to record and share scores with players.
 
-Publish results
-===============
+## Publish results
 
 At the end of each game, follow the steps below.
 
@@ -42,10 +43,9 @@ At the end of each game, follow the steps below.
 > - The second time you submit results, scores will be applied to game 2.
 > - And so on.
 
-The final game will be determined based on the number of games you set during [tournament creation](/admins/create).
+The final game will be determined based on the number of games you set during [tournament creation](/admins/create.html).
 
-Change results
-==============
+## Change results
 
 Sometimes our AI doesn't get the results exactly right, or there have been events in the game (e.g., cheating) that require you to make some manual adjustments.
 

@@ -2,6 +2,9 @@
 layout: default
 title: Admins
 nav_order: 2
+has_children: true
+permalink: /docs/admins
+
 ---
 
 {: .note }

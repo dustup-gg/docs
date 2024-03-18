@@ -24,7 +24,7 @@ Using the manual override for check-ins will not affect the automatic closing of
 Manually close check-ins
 ========================
 
-To manually close check-ins, run `/check-in-close` in the tournament's **#admin** channel.
+To manually close check-ins, hit the **Check-in close** button in the tournament's **#admin** channel.
 
 What happens when check-ins open?
 =================================
@@ -38,7 +38,7 @@ The criteria for a team being considered checked-in will depend on the check-in 
 -   **Captains-only unchecked:** Every player on the team needs to react.
 
 {: .tip }
-You can use the `/line-up` command at any time to get a table summary of check-in statuses for registered teams.
+You can use use the **Line-up** button in **#admin** at any time to get a table summary of check-in statuses for registered teams.
 
 What happens when check-ins close?
 ==================================

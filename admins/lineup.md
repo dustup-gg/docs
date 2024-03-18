@@ -1,10 +1,12 @@
 ---
 layout: default
-title: How do I review a tournament's registration status?
+title: Review registrations
 description: Get updates on team line-ups and share them with your community
-nav_order: 1
+nav_order: 4
 parent: Admins
 ---
+
+# How do I review a tournament's registration and check-in status?
 
 You can check the latest status of registrations and check-ins for your tournament at any time.
 

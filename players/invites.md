@@ -1,13 +1,12 @@
 ---
 layout: default
-title: How do I invite teammates?
+title: Invite teammates
 description: A guide for team captains to bring their teammates into the tournament channels so that they can receive tournament updates directly.
 nav_order: 1
 parent: Players
 ---
 
-Invite teammates
-================
+# How do I invite teammates?
 
 If you're registering for two or more people, you'll want to make sure your teammates can receive tournament notifications.
 
@@ -21,11 +20,11 @@ If you're registering for two or more people, you'll want to make sure your team
 
 Once all your teammates are invited, you can rest easy knowing they'll receive essential updates such as check-in requests and access codes in the **#tournament-info** channel.
 
-Invite limit
-============
+## Invite limit
+
 You get one invite per slot on your team. For example, if the tournament team size is 3, you'll get two invites.
 
-Univiting teammates
-===================
+## Univiting teammates
+
 If you invite the wrong user, run `/kick-teammate`. This will free up an invite slot for your team. 
 

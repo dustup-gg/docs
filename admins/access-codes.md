@@ -1,16 +1,17 @@
 ---
 layout: default
-title: How do I share lobby access codes with the bot?
+title: Share lobby codes
 description: Start a private match and share the access code with players
 nav_order: 1
 parent: Admins
 ---
 
-{: .note }
-You should have completed [tournament creation](/admins/create) and [closed check-ins](/admins/check-ins) before starting this process.
+# How do I share lobby access codes with the bot?
 
-Start a game (by sharing lobby access codes)
-============
+{: .note }
+You should have completed [tournament creation](/admins/create.html) and [closed check-ins](/admins/check-ins.html) before starting this process.
+
+## Start a game (by sharing lobby access codes)
 
 The channels you need to use to share your lobby access codes will differ slightly whether you're hosting a single-lobby or multi-lobby tournament:
 
@@ -30,8 +31,7 @@ You're now done with the bot until the results of the first game!
 {: .warning }
 If you're playing Apex or another game that uses our AI scoring, don't forget to take a screenshot of the results screen.
 
-Update the access code
-======================
+## Update the access code
 
 If for whatever reason your in-game lobby fails and you need to pull players into a new lobby, we have a facility to update the access code.
 

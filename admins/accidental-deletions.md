@@ -1,10 +1,12 @@
 ---
 layout: default
-title: What should I do if I accidentally delete a Dustup role or channel?
+title: Fixing channel deletions
 description: How to resolve missing channels or roles in your server
-nav_order: 1
+nav_order: 8
 parent: Admins
 ---
+
+# What should I do if I accidentally delete a Dustup role or channel?
 
 If you accidentally delete a core Dustup channel (e.g., #dustup-admin) or a role (e.g., organizer, inviter):
 

@@ -1,15 +1,15 @@
 @import "./color_schemes/light";
 
 $color-scheme: dustup !default;
-$body-background-color: $grey-dk-300 !default;
-$body-heading-color: $grey-dk-300 !default;
-$body-text-color: $grey-dk-100 !default;
-$link-color: $red-000 !default;
+$body-background-color: #faf8f8 !default;
+$body-heading-color: #faf8f8 !default;
+$body-text-color: #2b2622 !default;
+$link-color: #bf4526 !default;
 $nav-child-link-color: $grey-dk-100 !default;
 $sidebar-color: #b64242 !default;
 $base-button-color: #f7f7f7 !default;
-$btn-primary-color: $purple-100 !default;
-$code-background-color: $grey-lt-000 !default;
+$btn-primary-color: #6b5ae6 !default;
+$code-background-color: #e7dddd !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
 $table-background-color: $white !default;
 $search-background-color: $white !default;

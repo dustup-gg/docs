@@ -2,7 +2,7 @@
 layout: default
 title: Share lobby codes
 description: Start a private match and share the access code with players
-nav_order: 1
+nav_order: 6
 parent: Admins
 ---
 

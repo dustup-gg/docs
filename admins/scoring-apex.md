@@ -2,7 +2,7 @@
 layout: default
 title: Scoring (Apex)
 description: Automatically calculate scores based on a results page screenshot and share with players
-nav_order: 6
+nav_order: 7
 parent: Admins
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Fixing channel deletions
 description: How to resolve missing channels or roles in your server
-nav_order: 8
+nav_order: 9
 parent: Admins
 ---
 

@@ -12,7 +12,7 @@ You can check the latest status of registrations and check-ins for your tourname
 
 In the tournament's **#admin** channel, simply enter `/line-up`. You'll be provided a basic graphic list of all the registered teams and their check-in status.
 
-[![](/images/line-up.png)
+[![Lineup graphic sample](/docs/images/line-up.png)
 
 {: .note }
 A better-looking, branded table of teams will be provided to players after check-ins have closed. The line-up table above is only intended for internal review purposes.

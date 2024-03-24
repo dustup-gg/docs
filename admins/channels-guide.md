@@ -2,7 +2,7 @@
 layout: default
 title: Channel guide
 description: A list of all our auto-generated channels with details of what you'll be using them for
-nav_order: 9
+nav_order: 10
 parent: Admins
 ---
 

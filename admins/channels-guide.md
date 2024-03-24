@@ -19,6 +19,7 @@ In the course of organising tournaments using Dustup, we'll be automatically gen
 ## Tournament channels
 
 These channels will appear after creating a tournament or closing check-ins.
+
 | Channel name     | Visibility                | Purpose                                                                                                                                                                                                                                                            |
 |:-----------------|:--------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | #admin           | Admins                    | This is the "master" admin channel for each tournament, where you run tournament-wide commands. For individual match/lobby commands, use the #match-x-admin channels.                                                                                              |

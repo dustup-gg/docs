@@ -29,7 +29,7 @@ At the end of each game, follow the steps below.
 
     -   *Final game:* Individual game results + final results
         ​
-        [![Admin review results table](/docs/images/results.png)]
+        ![Admin review results table](/docs/images/results.png)
 
 5.  Review the results to make sure they're accurate.
 

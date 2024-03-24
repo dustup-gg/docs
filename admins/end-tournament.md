@@ -2,7 +2,7 @@
 layout: default
 title: Deleting a tournament
 description: What to do after the completion of a tournament to clean up your Discord server
-nav_order: 7
+nav_order: 8
 parent: Admins
 ---
 

@@ -17,7 +17,7 @@ The bot will do a few things for you:
   a. **Organizer:** A role that provides admin controls over all tournaments
   b. **Inviter:** A role for registered captains to invite teammates to tournament channels 
 The bot assigns you the Organizer role.
-Head to **#dustup-admin** to [start creating tournaments](/admins/create.html)!
+Head to **#dustup-admin** to [start creating tournaments](/docs/admins/create.html)!
 
 {: .note }
 If you want more admins to help out with your tournaments, you'll need a server admin to manually assign the _Organizer_ role to them in Discord.

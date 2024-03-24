@@ -9,7 +9,7 @@ parent: Admins
 # How do I share lobby access codes with the bot?
 
 {: .note }
-You should have completed [tournament creation](/admins/create.html) and [closed check-ins](/admins/check-ins.html) before starting this process.
+You should have completed [tournament creation](/docs/admins/create.html) and [closed check-ins](/docs/admins/check-ins.html) before starting this process.
 
 ## Start a game (by sharing lobby access codes)
 

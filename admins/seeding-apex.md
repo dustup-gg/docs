@@ -22,7 +22,11 @@ You only need to run `/generate-seed-roles` once. You can use the generated role
 
 2. Have teams register via Dustup as normal. 
 3. Assign the seed roles to the captains of teams as necessary. Your scrim line-up will be automatically updated live as you make role changes, and any users that move into or out of lobbies will receive DMs with updates on their status. See the sections below for specifics of how the seeding logic works for scrims and tournaments.
-4. Once you're happy with the line-up, you can [close check-ins](/docs/admins/checkins.html) as normal. 
+
+{: .note }
+Seed roles are persistent, so if any captain has already been assigned a seed role, you don't need to assign them a role again.
+
+5. Once you're happy with the line-up, you can [close check-ins](/docs/admins/checkins.html) as normal. 
 
 ## Apex scrims seeding logic
 * **Seed1** is the highest seed (for the best teams). They will be prioritised for the highest lobbies.

@@ -29,7 +29,7 @@ At the end of each game, follow the steps below.
 
     -   *Final game:* Individual game results + final results
         ​
-        ![Admin review results table](/docs/images/results.png)
+        ![Admin review results table](/images/results.png)
 
 5.  Review the results to make sure they're accurate.
 
@@ -43,7 +43,7 @@ At the end of each game, follow the steps below.
 > - The second time you submit results, scores will be applied to game 2.
 > - And so on.
 
-The final game will be determined based on the number of games you set during [tournament creation](/docs/admins/create.html).
+The final game will be determined based on the number of games you set during [tournament creation](/admins/create.html).
 
 ## Change results
 

@@ -21,7 +21,7 @@ Here's some example minimum registrations required for various tournament modes 
 * **Apex tournaments, 2 lobbies:** 20 teams
 * **Apex tournaments, 1 lobby:** 10 teams
 * **Apex scrims, 2 lobbies:** 20 teams
-* * **Apex scrims, 1 lobby:** 10 teams
+* **Apex scrims, 1 lobby:** 10 teams
  
 ## How does resizing work? 
 As an example, if you set up a 16-team single-elimination bracket, and only 7 teams register by the check-in close time, Dustup will prompt you to resize to a 8-team bracket to continue. After closing check-ins, the 7 teams will be placed in the bracket, with 1 team getting a bye in the first round.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tournament types
+title: Supported tournament types
 description: A summary of the different game types offered by Dustup
 nav_order: 0
 parent: Admins

@@ -37,10 +37,26 @@ For some tournament types (like Apex scrims), your line-up will update live as y
 
 ### Knockout bracket seeding example
 If you're running an 8-team knockout bracket with 2x seed1, 3x seed2, 1x seed3, and 1x no seed (only 7 teams because one didn't turn up!), then bracket placement in round 1 would look like: 
-* seed1 | bye
-* seed2 | seed3
-* seed2 | seed2
-* seed1 | no seed
+
+| Round 1, Match 1 |
+|------------------|
+| seed1            |
+| bye              |
+
+| Round 1, Match 2 |
+|------------------|
+| seed2            |
+| seed3            |
+
+| Round 1, Match 3 |
+|------------------|
+| seed2            |
+| seed2            |
+
+| Round 1, Match 4 |
+|------------------|
+| seed1            |
+| no seed          |
 
 ## Apex scrims seeding logic
 * Higher ranks will be prioritised for the highest lobbies.
